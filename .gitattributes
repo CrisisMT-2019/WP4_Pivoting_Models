@@ -1,0 +1,7 @@
+*.en filter=lfs diff=lfs merge=lfs -text
+*.ar filter=lfs diff=lfs merge=lfs -text
+*.el filter=lfs diff=lfs merge=lfs -text
+*.el.json filter=lfs diff=lfs merge=lfs -text
+*.ar.json filter=lfs diff=lfs merge=lfs -text
+*.en.json filter=lfs diff=lfs merge=lfs -text
+*.npz filter=lfs diff=lfs merge=lfs -text
